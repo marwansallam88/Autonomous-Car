@@ -8,6 +8,8 @@ Moving on to the hardware phase, we implemented our steering mechanism using a s
 
 Key aspects:
 
-Developed obstacle-avoidance logic using ROS and Python in a simulated self-driving car.
-Integrated a Hall effect sensor on a toy car to measure real-time speed, providing feedback for precise speed control and improved navigation accuracy.
-Implemented PID control and behavior planning for reliable and smooth autonomous navigation.
+• Developed obstacle-avoidance logic using ROS and Python in a simulated self-driving car.
+
+• Integrated a Hall effect sensor on a toy car to measure real-time speed, providing feedback for precise speed control and improved navigation accuracy.
+
+• Implemented PID control and behavior planning for reliable and smooth autonomous navigation.
