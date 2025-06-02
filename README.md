@@ -1,5 +1,5 @@
 Desciption:
-he 1:18 scale car has to travel two predetermined routes as part of the project's goal. The first calls for a 10-meter straight-line movement of the vehicle which was an unexpectedly challenging task. On the alternate road, two obstacles had to be avoided by lane switching.
+The 1:18 scale car has to travel two predetermined routes as part of the project's goal. The first calls for a 10-meter straight-line movement of the vehicle which was an unexpectedly challenging task. On the alternate road, two obstacles had to be avoided by lane switching.
 
 Before moving on to the hardware phase, we employed a simulation phase to refine our system. We carefully verified our nodes and communication protocols using the Gazebo platform on Ubuntu. This simulation phase allowed us to adjust our system, spot potential problems, and optimize performance.
 
