@@ -45,6 +45,5 @@ This project implements a complete autonomous driving system for a 1:18 scale RC
   - Neodymium magnets for wheel pulse generation  
   - 3D-printed sensor mounts  
 
-*Demonstrates minimalist approach to autonomous systems using only essential sensors.*
-
+*Demonstrates minimalist approach to autonomous systems using only essential sensors.*  
 *Developed by Ibrahim Elsahhar, Hana Ahmed, Marwan Sallam, Farida Moubarak, and Amr Abd El-Latif at the German University in Cairo (GUC).* 
