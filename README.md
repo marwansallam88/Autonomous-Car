@@ -11,6 +11,3 @@ In the hardware phase, steering was controlled via a servo motor, with motion co
 - Developed obstacle-avoidance logic using ROS and Python in a simulated self-driving car environment.
 - Integrated a Hall effect sensor to measure real-time speed, enhancing control accuracy.
 - Implemented PID control and behavior planning for smooth and reliable autonomous navigation.
-
-- [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
