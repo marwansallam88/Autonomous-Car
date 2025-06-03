@@ -8,6 +8,6 @@ This project develops a complete autonomous ground vehicle system using ROS (Rob
 - Developed integrated control architecture with speed control and lateral control algorithms for lane-changing capabilities.
 - Created planning module for velocity profiling and obstacle-free path planning with cooperative vehicle behavior.
 - Implemented Kalman Filter-based localization using IMU and encoder sensors for accurate state estimation.
-- Designed inter-processor communication protocol between Arduino (actuator control) and Raspberry Pi (high-level processing).
+- Designed inter-processor communication protocol (mainly serial communication) between Arduino (actuator control) and Raspberry Pi (high-level processing).
 - Built complete hardware system including PCB design, sensor integration, and mechanical modifications to 1:14-1:18 scale RC cars.
 - Tested system performance across multiple map environments including racing tracks and obstacle avoidance scenarios.
