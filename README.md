@@ -2,7 +2,10 @@
 
 ## Description  
 This project implements a complete autonomous driving system for a 1:18 scale RC car using ROS (Robot Operating System), relying solely on hall-effect sensors for all perception tasks. The system features Ackermann steering modification and integrates localization, planning, and control modules to enable basic autonomous navigation on predefined tracks without additional sensors.
-
+<p align="center">
+  <img src="Auto_Car_Photo.jpg" alt="Description" width="400"/>
+</p>
+                    
 ## Key Aspects  
 - **Minimalist Sensor Approach**: Uses only hall-effect sensors (no IMU, cameras, or lidar) for speed measurement and odometry.  
 - **Hardware Modifications**:  
